@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Christian Bourjau
+N:Bourjau;Christian;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:c.bourjau@posteo.de
+TEL;TYPE=CELL:01590 6156302
+item1.ADR:;;Andreasstraße 22;Berlin;;10243;DE
+item1.X-ABLabel:
+item2.ORG:Tide GmbH
+item2.X-ABLabel:
+item3.TITLE:Founder
+item3.X-ABLabel:
+BDAY:19870217
+item4.URL:cbourjau.github.io
+item4.X-ABLabel:BLOG
+NOTE:twitter: @cbourjau\nfacebook: christian.bourjau\nlinkedin: https\://ww
+ w.linkedin.com/in/christian-bourjau-07788893/
+END:VCARD
